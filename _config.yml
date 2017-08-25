@@ -2,7 +2,7 @@ title: MockMyBeret's Github
 description: Coding and Scripts by Tommy Becker
 google_analytics: 
 show_downloads: true
-theme: hydeout
+theme: jekyll-theme-hydeout
 
 gems:
   - jekyll-mentions
