@@ -22,6 +22,7 @@ plugins:
 
 # Custom vars
 version:            1.0
-sidebar_home_link:  true
+sidebar_home_link:  false
+future:             false
 github:
   repo:             https://github.com/mockmyberet
