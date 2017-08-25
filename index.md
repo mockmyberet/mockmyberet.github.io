@@ -1,6 +1,6 @@
-﻿# Welcome
+# Welcome
 Welcome to my github site.
 
-*[My Website](http://mockmyberet.com)
+*[My Website](https://about.me/mockmyberet)
 
 *[PowerShell](https://mockmyberet.github.io/PowerShell)
