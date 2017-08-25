@@ -3,10 +3,10 @@ markdown:         kramdown
 highlighter:      rouge
 
 # Setup
-title:            Hydeout
-tagline:          'A Jekyll theme'
-description:      'The <a href="http://hyde.getpoole.com" target="_blank">Hyde</a> theme for <a href="http://jekyllrb.com" target="_blank">Jekyll</a>, refreshed.'
-url:              https://mockmyberet.github.io/hydeout
+title:            MockMyBeret
+tagline:          'A Website Thing'
+description:      'This is my website.'
+url:              https://mockmyberet.github.io
 baseurl:          # the optional subpath of your site, e.g. "/blog"
 
 author:
