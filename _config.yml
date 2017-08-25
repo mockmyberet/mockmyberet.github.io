@@ -3,7 +3,7 @@ markdown:         kramdown
 highlighter:      rouge
 
 # Setup
-title:            MockMyBeret
+title:            Tommy Becker
 tagline:          'A Website Thing'
 description:      'This is my website.'
 url:              https://mockmyberet.github.io
@@ -21,7 +21,7 @@ plugins:
   - jekyll-paginate
 
 # Custom vars
-version:            3.4.2
+version:            1.0
 sidebar_home_link:  true
 github:
-  repo:             https://github.com/mockmyberet/mockmyberet.github.io
+  repo:             https://github.com/mockmyberet
