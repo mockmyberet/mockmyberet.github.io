@@ -11,6 +11,6 @@ excerpt: Blah, blah, blah about Github
 
 I wanted to write a little bit about Github.
 
-```Powershell
+```posh
 Install-Module posh-git
 ```
