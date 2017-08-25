@@ -1,11 +1,10 @@
 ---
 layout: post
-title: "Powershell: Get-FirstPost"
+title: "Add-FirstPost"
 categories:
   - Powershell Stuffs
 tags:
-  - content
-  - powershell
+  - Powershell
 ---
 
 first post
