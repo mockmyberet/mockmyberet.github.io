@@ -10,6 +10,8 @@ tags:
   - Automation
 ---
 
+This is a quick script I wrote today to quickly build some VMs for my local Hyper-V lab running in Windows 10.
+
 ```posh
 #requires -Version 2.0 -Modules Hyper-V
 function New-VMFromScratch
