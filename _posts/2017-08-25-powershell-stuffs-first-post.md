@@ -5,7 +5,7 @@ categories:
   - Powershell Stuffs
 tags:
   - content
-  - powershell
+  - Powershell
 ---
 
 first post
