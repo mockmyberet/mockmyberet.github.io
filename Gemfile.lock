@@ -63,7 +63,7 @@ PLATFORMS
   x64-mingw32
 
 DEPENDENCIES
-  jekyll-theme-hydeout
+  jekyll-theme-hydeout (~> 3.4)
 
 BUNDLED WITH
    1.15.4
