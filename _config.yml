@@ -21,7 +21,7 @@ plugins:
   - jekyll-paginate
 
 # Custom vars
-version:            3.4.1
+version:            3.4.2
 sidebar_home_link:  true
 github:
   repo:             https://github.com/mockmyberet/mockmyberet.github.io
