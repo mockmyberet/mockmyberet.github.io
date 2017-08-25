@@ -26,3 +26,5 @@ sidebar_home_link:  false
 future:             false
 github:
   repo:             https://github.com/mockmyberet
+disqus:
+  shortname: mockmyberet
