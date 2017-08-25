@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Creating multiple local VMs in Hyper-V
+title: Creating multiple local VMs in Hyper&#8209;V
 categories:
   - Powershell Stuffs
 tags:
