@@ -1,11 +1,11 @@
 <div id="sidebar">
   <header>
+    {% avatar mockmyberet size=300 %}
     <{% if page.layout == "index" %}h1{% else %}div{% endif %} class="site-title">
       <a href="{{ site.baseurl }}/">
         {% unless page.url == "/" %}
           <span class="back-arrow icon">{% include svg/back-arrow.svg %}</span>
         {% endunless %}
-        {% avatar mockmyberet size=300 %}
         {{ site.title }}
       </a>
     </{% if page.layout == "index" %}h1{% else %}div{% endif %}>
