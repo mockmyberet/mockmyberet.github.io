@@ -24,7 +24,7 @@ plugins:
 version:            1.0
 sidebar_home_link:  false
 future:             false
-github:
-  repo:             https://github.com/mockmyberet
+#github:
+#  repo:             https://github.com/mockmyberet
 disqus:
   shortname: mockmyberet
