@@ -19,6 +19,7 @@ plugins:
   - jekyll-feed
   - jekyll-gist
   - jekyll-paginate
+  - jekyll-admin
 
 # Custom vars
 version:            1.0
