@@ -1,8 +1,27 @@
-title: MockMyBeret's Github
-description: Coding and Scripts by Tommy Becker
-google_analytics: 
-show_downloads: true
-theme: jekyll-theme-hydeout
+# Dependencies
+markdown:         kramdown
+highlighter:      rouge
 
-gems:
-  - jekyll-mentions
+# Setup
+title:            Hydeout
+tagline:          'A Jekyll theme'
+description:      'The <a href="http://hyde.getpoole.com" target="_blank">Hyde</a> theme for <a href="http://jekyllrb.com" target="_blank">Jekyll</a>, refreshed.'
+url:              https://mockmyberet.github.io/hydeout
+baseurl:          # the optional subpath of your site, e.g. "/blog"
+
+author:
+  name:           'Tommy Becker'
+  url:            https://twitter.com/mockmyberet
+
+paginate:         5
+
+plugins:
+  - jekyll-feed
+  - jekyll-gist
+  - jekyll-paginate
+
+# Custom vars
+version:            3.4.1
+sidebar_home_link:  true
+github:
+  repo:             https://github.com/mockmyberet/hydeout
