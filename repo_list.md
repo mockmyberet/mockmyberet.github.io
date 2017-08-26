@@ -10,8 +10,8 @@ Below are a list of my Github repositories.
 {% unless repository.fork %}
 <li>
   <h3>
-    <a href="{{ repository.html_url }}">{{ repository.name }}</a><br>
-    <small>{{repository.description}}</small>
+    <a href=" {{ repository.html_url }} "> {{ repository.name }} </a><br>
+    <small> {{repository.description}} </small>
   </h3>
 </li>
 {% endunless %}
