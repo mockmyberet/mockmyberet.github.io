@@ -8,10 +8,12 @@ sidebar_link: true
 Just a guy that has an affinity for all things puzzling.
 </p>
 
-#My LinkedIn Profile:
+My LinkedIn Profile:
+
 <script src="//platform.linkedin.com/in.js" type="text/javascript"></script>
 <script type="IN/MemberProfile" data-id="https://www.linkedin.com/in/tommybecker" data-format="inline" data-related="false"></script>
 
 {% for repository in site.github.public_repositories %}
   * [{{ repository.name }}]({{ repository.html_url }})
+      {repository.owner_name}
 {% endfor %}
