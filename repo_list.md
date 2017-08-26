@@ -9,7 +9,8 @@ Below are a list of my Github repositories.
 {% for repository in site.github.public_repositories %}
 {% unless repository.fork %}
 <li>
-<h3>[{{ repository.name }}]({{ repository.html_url }})</h3><br>
-<h4>{{repository.description}}</h4></li>
+<h3> [{{ repository.name }}]({{ repository.html_url }}) </h3>
+<h4> {{repository.description}} </h4>
+</li>
 {% endunless %}
 {% endfor %}
