@@ -7,7 +7,7 @@ sidebar_link: true
 <p class="message">
 Just a guy that has an affinity for all things puzzling.
 </p>
-<p>
+
 My LinkedIn Profile:
 
 <script src="//platform.linkedin.com/in.js" type="text/javascript"></script>
@@ -17,4 +17,3 @@ My LinkedIn Profile:
   * [{{ repository.name }}]({{ repository.html_url }})
       {repository.owner_name}
 {% endfor %}
-</p>
