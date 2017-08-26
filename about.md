@@ -14,6 +14,7 @@ My LinkedIn Profile:
 <script type="IN/MemberProfile" data-id="https://www.linkedin.com/in/tommybecker" data-format="inline" data-related="false"></script>
 
 {% for repository in site.github.public_repositories %}
+{% unless repository.fork %}
   * [{{ repository.name }}]({{ repository.html_url }})
-      {{repository.owner_name}}
+{% endunless %}
 {% endfor %}
