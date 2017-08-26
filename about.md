@@ -15,5 +15,5 @@ My LinkedIn Profile:
 
 {% for repository in site.github.public_repositories %}
   * [{{ repository.name }}]({{ repository.html_url }})
-      {repository.owner_name}
+      {{repository.owner_name}}
 {% endfor %}
